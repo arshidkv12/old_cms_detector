@@ -17,6 +17,12 @@ Then type following command for running script
 
 ` python oldcmsdetector.py`
 
-You will get output file **oldcmsdetecto** to your root directory .
+You will get output file **oldCMS.txt** to your root directory .
+
+###How to download output file ?
+You can download oldCMS.txt by FTP or file manager.
+Just move oldCMS.txt to your public_html directory.
+
+Please contact http://www.ciphercoin.com/contact/
 
  
